@@ -18,7 +18,7 @@ This project requires no external dependencies or installations other than Pytho
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/banking-simulator.git](https://github.com/your-username/banking-simulator.git)
+   git clone [https://github.com/soumya26mishra/Simple_Banking_Simulator.git]
 2. **Navigate to the project directory:**
    ```Bash
    cd banking-simulator
@@ -36,4 +36,9 @@ Press 2 to test a deposit on Account 101. Enter a non-numeric character to test 
 Press 4 to transfer 1000 from Account 101 to Account 102. You will be prompted for Account 101's PIN.
 Press 5 to view the statement for Account 102 to verify the transferred funds appear correctly.
 Press 6 to safely exit the application.
+
+## Screeenshots
+<img width="725" height="342" alt="image" src="https://github.com/user-attachments/assets/5d67caf2-b688-4b79-a03f-e7401ce2b90c" />
+<img width="723" height="620" alt="image" src="https://github.com/user-attachments/assets/384a06a9-e4b0-4152-80dc-8fe9f195408c" />
+<img width="743" height="656" alt="image" src="https://github.com/user-attachments/assets/ffff19c5-bb1e-4dcb-b762-09dbd43949f2" />
 
